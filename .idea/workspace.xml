@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1f68b87-a2c2-488f-9b23-304e1e0cd517" name="更改" comment="add">
+      <change afterPath="$PROJECT_DIR$/src/DemoTeacherStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DemoFatherSon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DemoFatherSon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Father.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Son.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +49,7 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="应用程序.DemoTeacherStudent">
     <configuration name="DemoFatherSon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DemoFatherSon" />
       <module name="Java-Base-Project2" />
@@ -55,8 +57,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DemoTeacherStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoTeacherStudent" />
+      <module name="Java-Base-Project2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.DemoTeacherStudent" />
         <item itemvalue="应用程序.DemoFatherSon" />
       </list>
     </recent_temporary>
@@ -69,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699434125843</updated>
-      <workItem from="1699434127040" duration="6532000" />
+      <workItem from="1699434127040" duration="9588000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1699434682632</created>
@@ -99,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699437252434</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add">
+      <created>1699445643695</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699445643695</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
