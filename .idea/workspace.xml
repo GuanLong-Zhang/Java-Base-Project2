@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a1f68b87-a2c2-488f-9b23-304e1e0cd517" name="更改" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
