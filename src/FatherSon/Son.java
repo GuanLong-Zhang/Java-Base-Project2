@@ -26,7 +26,7 @@ public class Son extends Father {
     //方法重写，子类中出现了和父类中一模一样的方法声明
     @Override
     public void show(){
-//        super.show();      //访问父类中的成员方法
+        super.show();      //访问父类中的成员方法
         System.out.println("Son show被调用");
 
     }
