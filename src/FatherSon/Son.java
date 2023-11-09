@@ -1,5 +1,7 @@
+package FatherSon;
+
 //继承
-public class Son extends Father{
+public class Son extends Father {
     public int age = 20;
     public void method(){
         int age = 30;
@@ -15,16 +17,18 @@ public class Son extends Father{
     }
 
     public Son(int a){
-        System.out.println("Son有参构造方法");
 //        super(20);        //访问父类中的成员方法
+        System.out.println("Son有参构造方法");
+
 
     }
 
     //方法重写，子类中出现了和父类中一模一样的方法声明
     @Override
     public void show(){
-        System.out.println("Son show被调用");
 //        super.show();      //访问父类中的成员方法
+        System.out.println("Son show被调用");
+
     }
 
 }

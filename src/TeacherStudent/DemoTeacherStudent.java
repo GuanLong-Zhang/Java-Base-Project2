@@ -1,3 +1,5 @@
+package TeacherStudent;
+
 import java.util.Scanner;
 public class DemoTeacherStudent {
     public static void main(String[] args){

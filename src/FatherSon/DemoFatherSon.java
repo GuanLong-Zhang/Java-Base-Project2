@@ -1,3 +1,5 @@
+package FatherSon;
+
 public class DemoFatherSon {
     public static void main(String[] args){
         Father f = new Father(20);

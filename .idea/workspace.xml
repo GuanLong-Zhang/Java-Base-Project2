@@ -5,12 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1f68b87-a2c2-488f-9b23-304e1e0cd517" name="更改" comment="add">
-      <change afterPath="$PROJECT_DIR$/src/DemoTeacherStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal/DemoCatDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Animal/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DemoFatherSon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FatherSon/DemoFatherSon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DemoTeacherStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TeacherStudent/DemoTeacherStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FatherSon/Father.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TeacherStudent/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FatherSon/Son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TeacherStudent/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TeacherStudent/Teacher.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +49,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -49,16 +57,23 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.DemoTeacherStudent">
+  <component name="RunManager" selected="应用程序.DemoFatherSon">
+    <configuration name="DemoCatDog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Animal.DemoCatDog" />
+      <module name="Java-Base-Project2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoFatherSon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoFatherSon" />
+      <option name="MAIN_CLASS_NAME" value="FatherSon.DemoFatherSon" />
       <module name="Java-Base-Project2" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="DemoTeacherStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoTeacherStudent" />
+      <option name="MAIN_CLASS_NAME" value="TeacherStudent.DemoTeacherStudent" />
       <module name="Java-Base-Project2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,8 +81,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.DemoTeacherStudent" />
         <item itemvalue="应用程序.DemoFatherSon" />
+        <item itemvalue="应用程序.DemoCatDog" />
+        <item itemvalue="应用程序.DemoTeacherStudent" />
       </list>
     </recent_temporary>
   </component>
@@ -79,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699434125843</updated>
-      <workItem from="1699434127040" duration="9588000" />
+      <workItem from="1699434127040" duration="14206000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1699434682632</created>
@@ -116,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699445643695</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add">
+      <created>1699449020355</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699449020355</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
