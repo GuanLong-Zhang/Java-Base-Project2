@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1f68b87-a2c2-488f-9b23-304e1e0cd517" name="更改" comment="add">
-      <change beforePath="$PROJECT_DIR$/src/FatherSon/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FatherSon/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ploymorphic/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ploymorphic/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ploymorphic/DemoAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ploymorphic1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ploymorphic1/AnimalUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ploymorphic1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ploymorphic1/DemoAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ploymorphic1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ploymorphic1/Pig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +54,20 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.DemoFatherSon">
+  <component name="RunManager" selected="应用程序.DemoAnimal">
+    <configuration name="DemoAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ploymorphic.DemoAnimal" />
+      <module name="Java-Base-Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ploymorphic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoCatDog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Animal.DemoCatDog" />
       <module name="Java-Base-Project2" />
@@ -67,8 +89,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ploymorphic1.DemoAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ploymorphic1.DemoAnimal" />
+      <module name="Java-Base-Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ploymorphic1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.DemoAnimal" />
+        <item itemvalue="应用程序.Ploymorphic1.DemoAnimal" />
         <item itemvalue="应用程序.DemoFatherSon" />
         <item itemvalue="应用程序.DemoCatDog" />
         <item itemvalue="应用程序.DemoTeacherStudent" />
@@ -83,7 +120,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699434125843</updated>
-      <workItem from="1699434127040" duration="14350000" />
+      <workItem from="1699434127040" duration="21293000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1699434682632</created>
@@ -134,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699495471185</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add">
+      <created>1699495574116</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699495574116</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
