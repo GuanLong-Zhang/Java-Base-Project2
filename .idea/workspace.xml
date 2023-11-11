@@ -5,25 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1f68b87-a2c2-488f-9b23-304e1e0cd517" name="更改" comment="add">
-      <change afterPath="$PROJECT_DIR$/src/AbstractClassInterface/AbDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClassInterface/AlarmDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClassInterface/AlarmDoorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClassInterface/Interdoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClassInterface1/BasketballCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClassInterface1/BasketballSport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClassInterface1/CoachMan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClassInterface1/LearnEnglish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClassInterface1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClassInterface1/PingPangCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClassInterface1/PingPangSport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClassInterface1/SportMan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractClassInterface1/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfaceDemo1/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfaceDemo1/Inter0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfaceDemo1/Inter1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfaceDemo1/Inter2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfaceDemo1/InterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfaceDemo1/InterDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Parameter/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Parameter/CatDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Parameter/CatOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Parameter1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Parameter1/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Parameter1/AnimalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Parameter1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Parameter2/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Parameter2/Jumping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Parameter2/JumpingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Parameter2/JumpingOperator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +57,7 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.TestDemo">
+  <component name="RunManager" selected="应用程序.JumpingDemo">
     <configuration name="AlarmDoorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AbstractClassInterface.AlarmDoorTest" />
       <module name="Java-Base-Project2" />
@@ -80,11 +72,11 @@
       </method>
     </configuration>
     <configuration name="AnimalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AbstractClass.AnimalDemo" />
+      <option name="MAIN_CLASS_NAME" value="Parameter1.AnimalDemo" />
       <module name="Java-Base-Project2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AbstractClass.*" />
+          <option name="PATTERN" value="Parameter1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +84,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterfaceDemo1.InterDemoTest" />
+    <configuration name="CatDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Parameter.CatDemo" />
       <module name="Java-Base-Project2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InterfaceDemo1.*" />
+          <option name="PATTERN" value="Parameter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JumpingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Parameter2.JumpingDemo" />
+      <module name="Java-Base-Project2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Parameter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,26 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterfaceDemo.TestInterface" />
-      <module name="Java-Base-Project2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="InterfaceDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.JumpingDemo" />
+        <item itemvalue="应用程序.AnimalDemo" />
+        <item itemvalue="应用程序.CatDemo" />
         <item itemvalue="应用程序.TestDemo" />
         <item itemvalue="应用程序.AlarmDoorTest" />
-        <item itemvalue="应用程序.InterDemoTest" />
-        <item itemvalue="应用程序.TestInterface" />
-        <item itemvalue="应用程序.AnimalDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +141,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699434125843</updated>
-      <workItem from="1699434127040" duration="41760000" />
+      <workItem from="1699434127040" duration="48779000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1699434682632</created>
@@ -228,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699531505963</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add">
+      <created>1699604862236</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1699604862236</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
